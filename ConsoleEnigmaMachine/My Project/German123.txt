@@ -1,0 +1,86 @@
+<rotormappings>
+<rotor position="1" notches="Q">
+<mapping source="A" destination="E" />
+<mapping source="B" destination="K" />
+<mapping source="C" destination="M" />
+<mapping source="D" destination="F" />
+<mapping source="E" destination="L" />
+<mapping source="F" destination="G" />
+<mapping source="G" destination="D" />
+<mapping source="H" destination="Q" />
+<mapping source="I" destination="V" />
+<mapping source="J" destination="Z" />
+<mapping source="K" destination="N" />
+<mapping source="L" destination="T" />
+<mapping source="M" destination="O" />
+<mapping source="N" destination="W" />
+<mapping source="O" destination="Y" />
+<mapping source="P" destination="H" />
+<mapping source="Q" destination="X" />
+<mapping source="R" destination="U" />
+<mapping source="S" destination="S" />
+<mapping source="T" destination="P" />
+<mapping source="U" destination="A" />
+<mapping source="V" destination="I" />
+<mapping source="W" destination="B" />
+<mapping source="X" destination="R" />
+<mapping source="Y" destination="C" />
+<mapping source="Z" destination="J" />
+</rotor>
+<rotor position="2" notches="E">
+<mapping source="A" destination="A" />
+<mapping source="B" destination="J" />
+<mapping source="C" destination="D" />
+<mapping source="D" destination="K" />
+<mapping source="E" destination="S" />
+<mapping source="F" destination="I" />
+<mapping source="G" destination="R" />
+<mapping source="H" destination="U" />
+<mapping source="I" destination="X" />
+<mapping source="J" destination="B" />
+<mapping source="K" destination="L" />
+<mapping source="L" destination="H" />
+<mapping source="M" destination="W" />
+<mapping source="N" destination="T" />
+<mapping source="O" destination="M" />
+<mapping source="P" destination="C" />
+<mapping source="Q" destination="Q" />
+<mapping source="R" destination="G" />
+<mapping source="S" destination="Z" />
+<mapping source="T" destination="N" />
+<mapping source="U" destination="P" />
+<mapping source="V" destination="Y" />
+<mapping source="W" destination="F" />
+<mapping source="X" destination="V" />
+<mapping source="Y" destination="O" />
+<mapping source="Z" destination="E" />
+</rotor>
+<rotor position="3" notches="V">
+<mapping source="A" destination="B" />
+<mapping source="B" destination="D" />
+<mapping source="C" destination="F" />
+<mapping source="D" destination="H" />
+<mapping source="E" destination="J" />
+<mapping source="F" destination="L" />
+<mapping source="G" destination="C" />
+<mapping source="H" destination="P" />
+<mapping source="I" destination="R" />
+<mapping source="J" destination="T" />
+<mapping source="K" destination="X" />
+<mapping source="L" destination="V" />
+<mapping source="M" destination="Z" />
+<mapping source="N" destination="N" />
+<mapping source="O" destination="Y" />
+<mapping source="P" destination="E" />
+<mapping source="Q" destination="I" />
+<mapping source="R" destination="W" />
+<mapping source="S" destination="G" />
+<mapping source="T" destination="A" />
+<mapping source="U" destination="K" />
+<mapping source="V" destination="M" />
+<mapping source="W" destination="U" />
+<mapping source="X" destination="S" />
+<mapping source="Y" destination="Q" />
+<mapping source="Z" destination="O" />
+</rotor>
+</rotormappings>
