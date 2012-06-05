@@ -1,0 +1,4 @@
+<plugboard>
+<mapping source="A" destination="Z" />
+<mapping source="Z" destination="A" />
+</plugboard>
